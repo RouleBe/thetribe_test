@@ -1,0 +1,10 @@
+Note pour pita
+
+#Navbar -> mettre le logo a gauche + mettre une image en fixe sur le cote + position fixe + reduction de la navbar en % lorsque scroll down 
+
+
+#Acc-1 avoir le text a gauche alligner avec le logo + btn Discutons de votre projets 
+
+#Acc-2 c'est une catastrophe...
+
+-> faire un composant Card remplacer dans acc-2 
